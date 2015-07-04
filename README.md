@@ -1,4 +1,4 @@
 Grouk Book
 =======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Grouk是一个专为企业团队打造的沟通工具，可以与邮件无缝衔接，整合集成第三方协作工具，并且历史记录永久保存，一手掌握工作动态。
