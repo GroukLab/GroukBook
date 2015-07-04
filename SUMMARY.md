@@ -1,3 +1,3 @@
 # 目录
 
-* [开始使用Grouk](chapter1.md)
+* [开始使用Grouk](get-start.md)
