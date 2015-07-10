@@ -26,7 +26,7 @@ Private groups and public groups can be converted to each other.
 If you do not wish the new group members see the old chat history, we also provide such a mechanism, when inviting users to join the private group, we will ask you whether to allow the member to see the history, if not, You will a new group which include the original group members and new member. 
 
 ## Invite colleague
-Invite colleagues to Grouk is very simple, you just need to create a chat or group and directly input colleague's email when invite memeber. Them will receive your invitation message. 
+Invite colleagues to Grouk is very simple, you just need to create a chat or group and directly input colleague's email when invite member. Them will receive your invitation message. 
 
 ## Direct Message
 
