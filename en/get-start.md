@@ -22,6 +22,20 @@ Grouk的群组有两种类型，公开群组和私密群组。公开群组在团
 
 如果您不希望被邀请加入的新成员看到旧的聊天记录，我们也提供了这样的机制，私密群邀请用户加入的时候我们会询问您是否允许对方看到历史记录，如果不允许则会帮您创建一个包含原来群组成员和新成员的新群组。（注:该功能只对私密群有效，下一版本上线）
 
+Grouk groups although it looks like traditional IM group, the difference between the two in the following points:
+
+* Grouk store messages permanently and provide powerful search filters.
+* New users join the group can view the history fo group.
+
+The purpose of the features is that We believe that the group chat can be as a team dynamic knowledge base, wiki and other document system is a team static knowledge base. This allows the new colleagues more easily understand and integrate into the team.
+
+There are two types Grouk groups, public groups and private groups. Public Group visible to the whole team, you can browse all public groups. 
+Private groups can not bean directly join, only to be invited join.
+New multi user chat is private group. 
+Private groups and public groups can be converted to each other.
+
+If you do not wish the new group members see the old chat history, we also provide such a mechanism, when inviting users to join the private group, we will ask you whether to allow the member to see the history, if not, You will a new group which include the original group members and new member. 
+
 ## Invite colleague
 在Grouk邀请同事很简单，您只需要在创建会话和群组的时候直接输入对方的邮件地址，即可将对方添加到团队内。对方会收到您的邀请邮件。同时您给对方发送的消息也会通过邮件进行通知。
 
