@@ -47,7 +47,7 @@ iPhone版本多附件消息演示
 
 web版本多附件消息演示
 
-![web版本多附件消息演示](messages-web-350.png)
+![web版本多附件消息演示](messages-web2-350.png)
 
 ## 群内回复以及话题讨论
 
