@@ -3,11 +3,11 @@
 
 ## Register
 
-在Grouk，团队的标志是邮箱域名，相同邮箱域名的用户会自动加入同一个团队，所以您不需要提前创建团队。您只需要输入自己的企业邮箱，然后通过发给您邮箱的验证码直接登录即可。
+In Grouk, the team's id is mail domain, users of the same mail domain will automatically join the same team, so you do not need to create a team . You only need to enter your company E-mail, then use the verification code which sent to your mailbox to login directly.
 
-我们认为团队就是有共同目标的一群人，而域名就是这个目标的标志。
+We believe that the team is a group of people have same goal, and the domain name is the symbol of the goal.
 
-使用邮箱的好处是您可以直接通过邮箱查找到已经加入的同事或者通过邮件邀请对方直接加入。
+You can find colleagues directly by email or invite them to join by email.
 
 ## Group
 
