@@ -30,7 +30,7 @@ Invite colleagues to Grouk is very simple, you just need to create a chat or gro
 
 ## Direct Message
 
-Grouk内的私信(单聊)机制和传统的IM区别不大，但在Grouk，您可以和团队内的同事直接聊天而不需要预先添加好友等确认机制。
+In Grouk, you can send direct message to colleague without the need for add friends or other pre-confirmation mechanism.
 
 ## Message
 
