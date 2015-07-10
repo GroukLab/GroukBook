@@ -1,4 +1,4 @@
-# 开始使用Grouk
+# Get start with Grouk
 
 
 ## Register
@@ -10,17 +10,6 @@ We believe that the team is a group of people have same goal, and the domain nam
 You can find colleagues directly by email or invite them to join by email.
 
 ## Group
-
-Grouk的群组虽然看起来和传统的IM群组区别不大，但使用一段时间你就会发现二者区别还是挺大的，主要表现在：
-
-* Grouk的群组默认保留所有的历史聊天记录并提供云端检索功能。
-* Grouk的群组默认新加入群的用户可以查看旧的历史消息。
-
-这样做的目的是我们认为群组可以作为团队的动态知识库，wiki等文档系统是团队的静态知识库，而团队内的群聊则是动态的，及时更新的知识库。这样可以让新的同事更容易的了解和融入团队。
-
-Grouk的群组有两种类型，公开群组和私密群组。公开群组在团队内可见，用户可以在加入群组页面浏览公司内所有的公开群组。适合场景：团队内组织关系群组（比如研发群，产品群），公开项目群组以及公开的团队活动群。私密群组无直接加入的入口，只能被邀请加入，直接发起的多人会话默认是私密群组。私密群和公开群可以互相转换(该功能下一版本发布)。
-
-如果您不希望被邀请加入的新成员看到旧的聊天记录，我们也提供了这样的机制，私密群邀请用户加入的时候我们会询问您是否允许对方看到历史记录，如果不允许则会帮您创建一个包含原来群组成员和新成员的新群组。（注:该功能只对私密群有效，下一版本上线）
 
 Grouk groups although it looks like traditional IM group, the difference between the two in the following points:
 
