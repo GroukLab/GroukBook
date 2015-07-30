@@ -81,7 +81,7 @@ Grouk支持多个终端同时登陆，每个终端的消息，未读数，以及
 当然您也不必担心多终端导致的安全问题，我们支持通过一个设备将其他设备设置为离线（尚未上线）。
 
 ## GroukEmail
-GroukEmail是grouk分配给您以及群组的邮件地址，通过这个地址，您的同事可以用邮件客户端来给您或者群组发送消息（支持附件）。
+GroukEmail是grouk分配给您以及群组的邮件地址，通过这个地址，别人可以用邮件客户端来给您或者群组发送消息（支持附件）。
 
 * 个人的GroukEmail的规则是: 
         username@teamdomain+grouk.com
@@ -90,7 +90,7 @@ GroukEmail是grouk分配给您以及群组的邮件地址，通过这个地址�
         自定义群组ID@groups.teamdomain.grouk.com
 比如您有个群组的自定义id是rd，GroukEmail的地址就是: rd@groups.demo.com.grouk.com。群组的邮件地址相当于一个邮件列表。
 
-GroukEmail当前只支持同一个团队域下的邮箱进行发送。
+您可以将您的邮件转发到GroukEmail,这样就可以在Grouk中接受邮件。
 
 ## 第三方集成
 Grouk的第三方集成主要目的是将其他系统的消息通知到群组中，便于及时讨论以及追踪。比如 监控报警通知到群组可以及时沟通处理情况，持续集成工具的失败通知到群组中可以及时提醒代码提交者进行修复，等等。
