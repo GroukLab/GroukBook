@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [开始使用Grouk](get-start.md)
-* [账号与设置](account_and_setting.md)
+* [账号与设置]
    * [更新个人信息](update_user_profile.md)
    * [设置密码](setting_password.md)
    * [了解Grouk的提醒设置](understanding_grouk_notifications.md)
