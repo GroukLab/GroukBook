@@ -7,5 +7,5 @@
 * [群组](group.md)
 * [消息](message.md)
 * [邮件](email.md)
-* 集成
+* [集成](integration.md)
 
