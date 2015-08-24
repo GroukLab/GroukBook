@@ -1,7 +1,6 @@
 # Summary
 
 * [开始使用Grouk](README.md)
-* [开始使用Grouk](get-start.md)
 * [账号与设置](update_user_profile.md)
    * [更新个人信息](update_user_profile.md)
    * [设置密码](setting_password.md)
