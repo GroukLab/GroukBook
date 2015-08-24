@@ -5,7 +5,7 @@
 * [账号与设置](account_and_setting.md)
 * [团队和联系人](team_and_contact.md)
    * [同一域名同一团队](understanding_grouk_team.md)
-   * [了解Grouk的联系人](understanding_grouk_contact.md)
+   * [实时同步的团队联系人](understanding_grouk_contact.md)
 * [群组](group.md)
 * [消息](message.md)
 * [邮件](email.md)
