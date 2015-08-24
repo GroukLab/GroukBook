@@ -19,6 +19,7 @@
    * [使用标签来整理消息](using_message_tag.md)
 * [邮件](email.md)
    * [回复邮件](reply_email.md)
+* [搜索](search.md)
 * [集成](integration.md)
    * [微博集成](integration_weibo.md)
    * [微信集成](integration_weichat.md)
@@ -26,5 +27,5 @@
    * Gitlab集成
    * Teamcity集成
    * Jenkins集成
-* [搜索](search.md)
+
 
