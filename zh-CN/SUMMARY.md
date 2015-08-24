@@ -5,4 +5,5 @@
 * [账号与设置](account_and_setting.md)
 * 团队和联系人
 * 群组
+* 消息
 
