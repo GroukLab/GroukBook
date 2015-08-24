@@ -12,7 +12,7 @@
    * [邀请同事加入Grouk](inviting_new_members.md)
 * [群组](group.md)
    * [私密群和公开群](private_group_and_public_group.md)
-   * 群组内的权限
+   * [群组内的权限](group_member_privilege.md)
 * [消息](message.md)
 * [邮件](email.md)
 * [集成](integration.md)
