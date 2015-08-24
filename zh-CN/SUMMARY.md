@@ -15,6 +15,7 @@
    * [群组内的权限](group_member_privilege.md)
    * [邀请团队成员加入群组](invite_team_members_join_group.md)
 * [消息](message.md)
+   * 消息以及附件
 * [邮件](email.md)
 * [集成](integration.md)
 
