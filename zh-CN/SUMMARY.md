@@ -25,4 +25,5 @@
    * [微信集成](integration_weichat.md)
    * Github集成
    * Gitlab集成
+   * Teamcity集成
 
