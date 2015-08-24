@@ -24,4 +24,5 @@
    * [微博集成](integration_weibo.md)
    * [微信集成](integration_weichat.md)
    * Github集成
+   * Gitlab集成
 
