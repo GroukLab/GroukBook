@@ -11,6 +11,7 @@
    * [实时同步的团队联系人](understanding_grouk_contact.md)
    * [邀请同事加入Grouk](inviting_new_members.md)
 * [群组](group.md)
+   * 私密群和公开群
 * [消息](message.md)
 * [邮件](email.md)
 * [集成](integration.md)
