@@ -26,4 +26,5 @@
    * Github集成
    * Gitlab集成
    * Teamcity集成
+   * Jenkins集成
 
