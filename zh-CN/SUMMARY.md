@@ -21,4 +21,5 @@
 * [邮件](email.md)
    * [回复邮件](reply_email.md)
 * [集成](integration.md)
+   * 微博集成
 
