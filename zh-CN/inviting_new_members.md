@@ -4,10 +4,10 @@
 
 * iPhone版本邀请
 * 
-![iPhone版本邀请](invite-350.png)
+![iPhone版本邀请](imgs/invite-350.png)
 * web版本邀请
 
-![web版本邀请](invite-web-350.png)
+![web版本邀请](imgs/invite-web-350.png)
 
 如果您想批量邀请很多同事加入，可以使用我们的批量邀请工具。
 TODO
