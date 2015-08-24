@@ -17,6 +17,7 @@
 * [消息](message.md)
    * [消息以及附件](message_and_attachment.md)
    * [提到(@)](mention.md)
+   * 使用标签来整理消息
 * [邮件](email.md)
 * [集成](integration.md)
 
