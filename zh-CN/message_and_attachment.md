@@ -8,8 +8,8 @@ Grouk的消息可以在任意时间都可以被作者编辑（当前只支持了
 
 iPhone版本多附件消息演示
 
-![iPhone版本多附件消息演示](messages-350.png)
+![iPhone版本多附件消息演示](imgs/messages-350.png)
 
 web版本多附件消息演示
 
-![web版本多附件消息演示](messages-web2-350.png)
+![web版本多附件消息演示](imgs/messages-web2-350.png)
