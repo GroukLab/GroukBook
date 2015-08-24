@@ -8,6 +8,6 @@ Grouk默认会用您的邮箱前缀作为用户名，也会给你自动生成一
 * 电话号码（支持添加多个）
 
 
-[^1][了解Grouk的联系人同步机制](./understanding_grouk_contact)
+[^1][了解Grouk的联系人同步机制](understanding_grouk_contact.md)
 
 
