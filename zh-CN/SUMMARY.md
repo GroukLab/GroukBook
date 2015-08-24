@@ -26,5 +26,5 @@
    * Gitlab集成
    * Teamcity集成
    * Jenkins集成
-* 搜索
+* [搜索](search.md)
 
