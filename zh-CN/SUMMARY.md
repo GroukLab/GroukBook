@@ -6,7 +6,7 @@
    * [更新个人信息](update_user_profile.md)
    * [设置密码](setting_password.md)
    * [了解Grouk的提醒设置](understanding_grouk_notifications.md)
-* [团队和联系人](team_and_contact.md)
+* [团队和联系人](understanding_grouk_team.md)
    * [同一域名同一团队](understanding_grouk_team.md)
    * [实时同步的团队联系人](understanding_grouk_contact.md)
    * [邀请同事加入Grouk](inviting_new_members.md)
