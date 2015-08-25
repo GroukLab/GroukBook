@@ -16,7 +16,7 @@
    * [使用消息标签](using_message_tag.md)
 * [邮件](email.md)
    * [回复邮件](reply_email.md)
-   * 邮件提醒
+   * [邮件提醒](email_notification.md)
 * [搜索](search.md)
 * [多终端支持](client.md)
    * iOS客户端
