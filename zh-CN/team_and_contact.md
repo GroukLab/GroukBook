@@ -9,3 +9,6 @@
 这样Grouk的联系人就是
 
 使用邮箱的另外一个好处是您可以直接通过邮件邀请同事直接加入，而不需要通过团队管理员的审批。
+
+* [实时同步的团队联系人](understanding_grouk_contact.md)
+* [邀请同事加入Grouk](inviting_new_members.md)
