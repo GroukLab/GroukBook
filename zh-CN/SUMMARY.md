@@ -21,7 +21,7 @@
 * [多终端支持](client.md)
    * [iOS客户端](ios_client.md)
    * [Android客户端](android_client.md)
-   * Web客户端
+   * [Web客户端](web_client.md)
    * Linux客户端
    * Mac客户端
    * Windows客户端
