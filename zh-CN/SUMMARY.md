@@ -22,6 +22,7 @@
    * Android客户端
    * Web客户端
    * Linux客户端
+   * Mac客户端
 * [集成](integration.md)
    * [微博集成](integration_weibo.md)
    * [微信集成](integration_weichat.md)
