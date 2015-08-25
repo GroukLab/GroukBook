@@ -11,7 +11,7 @@
 * [群组](group.md)
    * [群组内的权限](group_member_privilege.md)
    * [邀请团队成员加入群组](invite_team_members_join_group.md)
-* [消息](message.md)
+* [消息和附件](message.md)
    * [提到(@)](mention.md)
    * [使用标签来整理消息](using_message_tag.md)
 * [邮件](email.md)
