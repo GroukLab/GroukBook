@@ -18,6 +18,7 @@
    * [回复邮件](reply_email.md)
 * [搜索](search.md)
 * [多终端支持](client.md)
+   * iOS客户端
 * [集成](integration.md)
    * [微博集成](integration_weibo.md)
    * [微信集成](integration_weichat.md)
