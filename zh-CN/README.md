@@ -42,8 +42,8 @@ Grouk内的消息和传统IM的消息区别比较大，主要体现在:
 Grouk在群聊内通过回复机制，实现了类似BBS的话题讨论和实时群聊的整合，避免了群内多个话题穿插讨论而带来的上下文丢失问题，也方便您对消息像邮件一样进行回复。
 
 ## 提醒设置
-Grouk提供了强大的提醒设置机制，详情查看
-[了解Grouk的提醒设置](understanding_grouk_notifications.md)
+Grouk提供了强大的提醒设置机制，
+[了解Grouk的提醒设置](understanding_grouk_notifications.md)。
 
 ## 搜索
 Grouk提供消息以及附件的全文搜索，支持各种维度的过滤筛选。详情查看[搜索](search.md)
