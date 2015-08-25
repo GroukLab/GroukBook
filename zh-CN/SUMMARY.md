@@ -20,7 +20,7 @@
 * [搜索](search.md)
 * [多终端支持](client.md)
    * [iOS客户端](ios_client.md)
-   * Android客户端
+   * [Android客户端](android_client.md)
    * Web客户端
    * Linux客户端
    * Mac客户端
