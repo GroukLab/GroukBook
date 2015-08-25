@@ -8,7 +8,7 @@
 * [团队和联系人](team_and_contact.md)
    * [实时同步的团队联系人](understanding_grouk_contact.md)
    * [邀请同事加入Grouk](inviting_new_members.md)
-* [群组](private_group_and_public_group.md)
+* [群组](group.md)
    * [私密群和公开群](private_group_and_public_group.md)
    * [群组内的权限](group_member_privilege.md)
    * [邀请团队成员加入群组](invite_team_members_join_group.md)
