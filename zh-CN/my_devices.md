@@ -5,7 +5,13 @@
 * Android版本-划出左侧菜单-点击个人头像-打开个人信息页面-我的设备列表页
 * web版本当前功能尚未完成（TODO）
 
-Android版本
+点击设备列表中的项目可以将该设备强制踢出。
 
+Android版本设备列表
 
-点击设备列表
+![搜索](imgs/my-devices-android-350.png) 
+
+iOS版本设备列表
+
+![搜索](imgs/my-devices-ios-350.png) 
+
