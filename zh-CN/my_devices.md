@@ -7,6 +7,7 @@
 
 点击设备列表中的项目可以将该设备强制踢出。
 
+
 Android版本设备列表
 
 ![搜索](imgs/my-devices-android-350.png) 
