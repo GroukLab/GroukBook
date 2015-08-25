@@ -24,4 +24,5 @@
    * Gitlab集成
    * Teamcity集成
    * Jenkins集成
+* 多终端支持
 
