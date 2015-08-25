@@ -20,6 +20,7 @@
 * [多终端支持](client.md)
    * iOS客户端
    * Android客户端
+   * Web客户端
 * [集成](integration.md)
    * [微博集成](integration_weibo.md)
    * [微信集成](integration_weichat.md)
