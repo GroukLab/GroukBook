@@ -22,7 +22,7 @@
    * [iOS客户端](ios_client.md)
    * [Android客户端](android_client.md)
    * [Web客户端](web_client.md)
-   * Linux客户端
+   * [Linux客户端](linux_client.md)
    * Mac客户端
    * Windows客户端
    * [我的设备管理](my_devices.md)
