@@ -35,7 +35,7 @@ Grouk内的消息和传统IM的消息区别比较大，主要体现在:
 
 * [消息和附件](message_and_attachment.md) 详细了解Grouk的消息特点
 * [提到](mention.md) 了解如何在Grouk中使用提到(@)功能
-* []
+* [消息标签](using_message_tag.md) 了解如何通过标签来整理消息
 
 ## 群内回复以及话题讨论
 
