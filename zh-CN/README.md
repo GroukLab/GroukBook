@@ -21,7 +21,7 @@ Grouk的群组虽然看起来和传统的IM群组区别不大，但使用一段�
 * [邀请团队成员加入群组](invite_team_members_join_group.md)
 
 ## 邀请同事
-[邀请同时加入Grouk](inviting_new_members.md)
+[邀请同事加入Grouk](inviting_new_members.md)
 
 ## 私信
 
