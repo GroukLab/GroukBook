@@ -6,7 +6,6 @@
    * [设置密码](setting_password.md)
    * [了解Grouk的提醒设置](understanding_grouk_notifications.md)
 * [团队和联系人](team_and_contact.md)
-   * [同一域名同一团队](understanding_grouk_team.md)
    * [实时同步的团队联系人](understanding_grouk_contact.md)
    * [邀请同事加入Grouk](inviting_new_members.md)
 * [群组](private_group_and_public_group.md)
@@ -27,5 +26,4 @@
    * Gitlab集成
    * Teamcity集成
    * Jenkins集成
-
 
