@@ -19,7 +19,7 @@
    * [邮件提醒](email_notification.md)
 * [搜索](search.md)
 * [多终端支持](client.md)
-   * iOS客户端
+   * [iOS客户端](ios_client.md)
    * Android客户端
    * Web客户端
    * Linux客户端
