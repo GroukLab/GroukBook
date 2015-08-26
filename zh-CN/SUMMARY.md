@@ -30,7 +30,7 @@
 * [集成](integration.md)
    * [微博集成](integration_weibo.md)
    * [微信集成](integration_weichat.md)
-   * Github集成
+   * [Github集成](integration_github.md)
    * Gitlab集成
    * Teamcity集成
    * Jenkins集成
