@@ -6,10 +6,14 @@ Grouk的消息可以在任意时间都可以被作者编辑（当前只支持了
 
 除了普通的文件附件，Grouk还支持链接附件，用于分享链接。发送链接时，Grouk会自动将链接展开为链接附件。
 
-iPhone版本多附件消息演示
+iPhone版多附件消息演示
 
 ![iPhone版本多附件消息演示](imgs/messages-350.png)
 
-web版本多附件消息演示
+web版多附件消息演示
 
 ![web版本多附件消息演示](imgs/messages-web2-350.png)
+
+web版链接附件演示
+
+![web版链接附件演示](imgs/link-attachment-web-350.png)
