@@ -6,7 +6,7 @@ Grouk的webhook不区分POST和GET，同时支持JSON和XML请求，所以以下
     curl $webhookURL?text=ping
     curl -d "text=ping" $webhookURL
     curl -H "Content-Type: application/json"  -d '{"text":"ping"}'  $webhookURL
-    curl -H "Content-Type: application/xml"  -d '<xml><text>ping<text></xml>'  $webhookURL
+    curl -H "Content-Type: application/xml"  -d '<xml><text>ping</text></xml>'  $webhookURL
     
 首先，请求参数中必须包含text字段。例如：
     
