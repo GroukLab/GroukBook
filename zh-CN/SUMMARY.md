@@ -40,4 +40,5 @@
    * [Jira集成](integration_jira.md)
    * [Rss集成](integration_rss.md)
    * [Incoming Webhook](integration_incommingwebhook.md)
+       * 兼容Slack格式的Webhook
 
