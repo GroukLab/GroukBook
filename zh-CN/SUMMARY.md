@@ -34,5 +34,5 @@
    * [Gitlab集成](integration_gitlab.md)
    * [Teamcity集成](integration_teamcity.md)
    * [Jenkins集成](integration_jenkins.md)
-   * Crashlytics集成
+   * [Crashlytics集成](integration_crashlytic.md)
 
