@@ -16,8 +16,6 @@ Grouk默认会用您的邮箱前缀作为用户名，也会给你自动生成一
 * 电话号码（支持添加多个）
 
 
-同时Grouk提供了丰富的提醒设置： [了解Grouk的提醒设置](understanding_grouk_notifications.md)
-
 ##设置密码
 
 第一次登陆Grouk是通过邮箱验证码登陆的，网页版登陆后会提示您设置自己的密码。
@@ -26,7 +24,14 @@ Grouk默认会用您的邮箱前缀作为用户名，也会给你自动生成一
 
 如果您忘记了您设置的密码，您可以先直接通过邮箱验证码登陆，登陆后再重置密码。
 
+##选择语言
+当前Grouk支持英文和中文两种语言，默认使用系统语言。可以在设置界面修改。
+
 
 [^1][了解Grouk的联系人同步机制](understanding_grouk_contact.md)
+
+##提醒设置
+[了解Grouk的提醒设置](understanding_grouk_notifications.md)
+
 
  
