@@ -1,4 +1,12 @@
 {
     "title": "Grouk用户指南",
-    "language": "zh-CN"
+    "language": "zh-CN",
+    "plugins": [
+        "json"
+    ],
+    "pluginsConfig": {
+        "json": {
+            "output": "_book/book.json"
+        }
+    }
 }
