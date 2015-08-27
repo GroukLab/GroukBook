@@ -16,3 +16,5 @@ Grouk中回复消息很容易，点击每个消息右下角的回复按钮发送
 ![iOS版讨论主题窗口](imgs/message-discuss-ios-350.png)
 
 其他功能和主窗口一致，消息也是实时的。
+
+消息回复机制是Grouk的核心机制之一，[邮件回复](reply_email.md)，以及[微博](integration_weibo.md)和[微信](integration_weichat.md)的双向集成机制，都是基于消息回复实现的。
