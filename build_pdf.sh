@@ -1,2 +1,2 @@
 gitbook pdf . _book/groukbook.pdf
-aws s3 cp _book s3://grouk-public/groukbook --recursive
+aws s3 cp _book/groukbook_zh-CN.pdf s3://grouk-public/groukbook/zh-CN/
