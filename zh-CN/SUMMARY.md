@@ -2,7 +2,6 @@
 
 * [开始使用Grouk](README.md)
 * [账号与设置](account_and_setting.md)
-   * [设置密码](setting_password.md)
    * [了解Grouk的提醒设置](understanding_grouk_notifications.md)
 * [团队和联系人](team_and_contact.md)
    * [实时同步的团队联系人](understanding_grouk_contact.md)
