@@ -1,7 +1,7 @@
 #Incoming Webhook
 使用Incoming Webhook可以简单的发送外部数据到Grouk。
 
-Grouk的webhook不区分POST和GET，同时支持JSON和XML请求，所以以下几种请求是对等的：
+Grouk的webhook不区分POST和GET，同时支持JSON和XML请求，所以以下几种请求是等价的：
     
     curl $webhookURL?text=ping
     curl -d "text=ping" $webhookURL
