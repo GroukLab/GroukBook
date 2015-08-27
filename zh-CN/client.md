@@ -18,3 +18,15 @@ Grouk支持多个终端同时登陆，每个终端的消息，未读数，以及
 
 ![](https://grouk.com/img/default/qrcode_android_400.png)
 
+
+##Web客户端
+
+* 直接访问 [https://grouk.com](https://grouk.com)
+ 
+
+##Mac客户端
+
+##Linux客户端
+
+##Windows客户端
+
