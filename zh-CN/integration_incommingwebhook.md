@@ -29,6 +29,21 @@ Grouk的webhook不区分POST和GET，也支持JSON和XML请求,所以以下几�
     
 想要在Grouk中显示一个富文本格式的消息。你可以使用如下格式的JSON字符串：
     
-    {"text":"message text","attachment":{ "description":"some description of this attachment","fallback":"Required text summary of the attachment that is shown by clients that understand attachments but choose not to show them.", "color":"#36a64f","body":{"title":"This is attachment title", "title_link":"http://grouk.com",<br/>      "author_name":"author name",<br/>      "author_link":"https://grouk.com",<br/>      "author_icon":"https://grouk.com/img/default/96.png",<br/>      "image_url":"https://farm3.staticflickr.com/2833/11787125913_6dff9758c9_b.jpg"<br/>    }<br/>   }<br/>}
+    {
+    "text": "message text",
+    "attachment": {
+        "description": "some description of this attachment",
+        "fallback": "Required text summary of the attachment that is shown by clients that understand attachments but choose not to show them.",
+        "color": "#36a64f",
+        "body": {
+            "title": "This is attachment title",
+            "title_link": "http://grouk.com",
+            "author_name": "author name",
+            "author_link": "https://grouk.com",
+            "author_icon": "https://grouk.com/img/default/96.png",
+            "image_url": "https://farm3.staticflickr.com/2833/11787125913_6dff9758c9_b.jpg"
+        }
+    }
+}
     
 ![step4](https://s3.cn-north-1.amazonaws.com.cn/grouk-public/integration/incomingwebhook/incomingwebhook_step4.png)
