@@ -1,13 +1,5 @@
 {
     "title": "Grouk用户指南",
     "language": "zh-CN",
-    "gitbook": ">=2.0.0",
-    "plugins": [
-      "json"
-    ],
-    "pluginsConfig": {
-        "json": {
-            "output": "_book/book.json"
-        }
-    }
+    "gitbook": ">=2.0.0"
 }
