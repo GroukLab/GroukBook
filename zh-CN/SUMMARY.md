@@ -36,5 +36,5 @@
    * [Jenkins集成](integration_jenkins.md)
    * [Crashlytics集成](integration_crashlytic.md)
    * [邮件集成](integration_email.md)
-   * Fir集成
+   * [Fir集成](integration_fir.md)
 
