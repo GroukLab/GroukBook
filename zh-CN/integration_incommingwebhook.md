@@ -46,6 +46,10 @@ Grouk的webhook不区分POST和GET，同时支持JSON和XML请求，所以以下
         }
     }
 
+curl 命令示例:
+
     curl -H "Content-Type: application/json"  -d '{"text": "message text","attachment": {"description": "some description of this attachment","color": "#36a64f","body": {"title": "This is attachment title","title_link": "http://grouk.com","author_name": "author name","author_link": "https://grouk.com","author_icon": "https://grouk.com/img/default/96.png","image_url": "https://farm3.staticflickr.com/2833/11787125913_6dff9758c9_b.jpg"}}}'  $webhookURL
     
 ![step4](https://s3.cn-north-1.amazonaws.com.cn/grouk-public/integration/incomingwebhook/incomingwebhook_step4.png)
+
+当前Incoming Webhook尚未支持文件附件。
