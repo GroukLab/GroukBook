@@ -5,7 +5,6 @@
 * iPhone版本邀请
 ![iPhone版本邀请](imgs/invite-350.png)
 * web版本邀请
-
 ![web版本邀请](imgs/invite-web-350.png)
 
 
