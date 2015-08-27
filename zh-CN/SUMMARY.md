@@ -38,4 +38,5 @@
    * [邮件集成](integration_email.md)
    * [Fir集成](integration_fir.md)
    * [Jira集成](integration_jira.md)
+   * Rss集成
 
