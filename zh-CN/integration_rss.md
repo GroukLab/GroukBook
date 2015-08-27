@@ -1,0 +1,3 @@
+#Rss集成
+Rss集成允许您添加Rss源，Grouk会定期抓取该Rss源的内容，并将新的内容展示到订阅的群组。
+将rss地址粘贴到pullingURL中保存即可。
