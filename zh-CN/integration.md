@@ -17,4 +17,4 @@ Grouk为什么将集成分为创建事件源和订阅分开？而不是创建的
 
 1. [邮件集成](integration_email.md) 创建后系统会分配一个邮件地址，向该地址发送邮件，就会发送一条消息给订阅者。主要使用场景：邮件转发提醒，和只支持邮件提醒的系统进行集成。
 2. [Incoming Webhook](integration_incomingwebhook.md) webhook是一个带有token的接口地址，向该接口发送消息就会发送一条消息给订阅者。
-3. rss 直接输入一个rss地址，如果该rss源有更新，就会发送消息给订阅者。
+3. [rss](integration_rss.md) 直接输入一个rss地址，如果该rss源有更新，就会发送消息给订阅者。
