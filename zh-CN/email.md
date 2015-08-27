@@ -1,6 +1,6 @@
 #邮件
 
-Grouk和邮件实现了无缝集成，Grouk会给每个用户以及群组分配一个独立的邮件地址，发邮件给该邮件地址，即可在Grouk中收取邮件（支持附件）。
+Grouk和邮件实现了无缝集成，Grouk会给每个用户以及群组分配一个独立的邮件地址，发邮件给该邮件地址，即可在Grouk中收取邮件消息（支持附件）。
 
 * 个人的GroukEmail的规则是: 
         username@teamdomain+grouk.com
