@@ -19,7 +19,6 @@
    * [邮件提醒](email_notification.md)
 * [搜索](search.md)
 * [多终端支持](client.md)
-   * [Windows客户端](windows_client.md)
    * [我的设备管理](my_devices.md)
    * [多设备的提醒规则](multi-devices-notification.md)
 * [集成](integration.md)
