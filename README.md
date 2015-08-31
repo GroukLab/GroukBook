@@ -64,6 +64,8 @@ Grouk支持和第三方应用集成，详细参看[集成](integration.md)
 1. 微信号 grouklab
     
     ![qrcode_weichat](imgs/qrcode_weichat_grouklab.jpg) 
-1. 微博 @GroukLab 
+1. 微博 [@GroukLab](Grouk是一个专为企业团队打造的沟通工具，可以与邮件无缝衔接，整合集成第三方协作工具，并且历史记录永久保存，一手掌握工作动态。
+
+) 
 
     ![qrcode_weibo](imgs/qrcode_weibo_grouklab.png) 
