@@ -60,4 +60,10 @@ Grouk可以和邮件无缝集成，详细参看[邮件](email.md)
 Grouk支持和第三方应用集成，详细参看[集成](integration.md)
 
 ## 联系我们
+1. feedback@grouk.com
+1. 微信号 grouklab
+    
+    ![qrcode_weichat](imgs/qrcode_weichat_grouklab.jpg) 
+1. 微博 @GroukLab 
 
+    ![qrcode_weibo](imgs/qrcode_weibo_grouklab.png) 
