@@ -27,9 +27,6 @@ Grouk默认会用您的邮箱前缀作为用户名，也会给你自动生成一
 ##选择语言
 当前Grouk支持英文和中文两种语言，默认使用系统语言。可以在设置界面修改。
 
-##提醒设置
-[了解Grouk的提醒设置](understanding_grouk_notifications.md)
-
 [^1][实时同步的团队联系人](understanding_grouk_contact.md)
 
 
