@@ -34,5 +34,5 @@
    * [Rss集成](integration_rss.md)
    * [Incoming Webhook](integration_incomingwebhook.md)
        * [兼容Slack格式的Webhook](integration_incomingwebhook_slack.md)
-   * Open-Falcon集成
+   * [Open-Falcon集成](integration-openfalcon.md)
 
