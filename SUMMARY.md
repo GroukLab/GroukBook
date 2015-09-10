@@ -28,7 +28,7 @@
    * [Teamcity](integration_teamcity.md)
    * [Jenkins](integration_jenkins.md)
    * [Crashlytics](integration_crashlytic.md)
-   * [邮件集成](integration_email.md)
+   * [邮件](integration_email.md)
    * [Fir集成](integration_fir.md)
    * [Jira集成](integration_jira.md)
    * [Rss集成](integration_rss.md)
