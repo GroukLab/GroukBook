@@ -1,4 +1,4 @@
-#Gitlab集成
+#Gitlab
 GitLab 是一个用于管理Git仓库的开源项目。
 
 1. 登录您的GitLab，选择要监视的项目，点击左侧导航栏的“Settings”标签。
