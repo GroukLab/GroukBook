@@ -1,4 +1,4 @@
-#Fir集成
+#Fir
 FIR.im 是一个同时支持Android和iOS的App版本分发服务。
 
 1. 登录您的FIR.im，进入应用管理页面，点击“集成”标签。
