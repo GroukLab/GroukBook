@@ -29,7 +29,7 @@
    * [Jenkins](integration_jenkins.md)
    * [Crashlytics](integration_crashlytic.md)
    * [邮件](integration_email.md)
-   * [Fir集成](integration_fir.md)
+   * [Fir](integration_fir.md)
    * [Jira集成](integration_jira.md)
    * [Rss集成](integration_rss.md)
    * [Incoming Webhook](integration_incomingwebhook.md)
