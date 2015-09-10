@@ -22,7 +22,7 @@
    * [多设备的提醒规则](multi-devices-notification.md)
 * [集成](integration.md)
    * [微博](integration_weibo.md)
-   * [微信集成](integration_weichat.md)
+   * [微信](integration_weichat.md)
    * [Github集成](integration_github.md)
    * [Gitlab集成](integration_gitlab.md)
    * [Teamcity集成](integration_teamcity.md)
