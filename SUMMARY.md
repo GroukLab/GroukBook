@@ -37,5 +37,5 @@
    * [Open-Falcon](integration_openfalcon.md)
    * [AmazonSNS](integration_amazonsns.md)
    * [青云](integration_qingyun.md)
-   * 监控宝
+   * [监控宝](integration_jiankongbao.md)
 
