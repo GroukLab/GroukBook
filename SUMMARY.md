@@ -25,7 +25,7 @@
    * [微信](integration_weichat.md)
    * [Github](integration_github.md)
    * [Gitlab](integration_gitlab.md)
-   * [Teamcity集成](integration_teamcity.md)
+   * [Teamcity](integration_teamcity.md)
    * [Jenkins集成](integration_jenkins.md)
    * [Crashlytics集成](integration_crashlytic.md)
    * [邮件集成](integration_email.md)
