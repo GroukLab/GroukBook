@@ -1,4 +1,4 @@
-#Teamcity集成
+#Teamcity
 TeamCity是JetBrains公司出的一个基于Java的构建管理和持续集成服务。
 
 1. 首先，需要下载一个第三方插件 **tcWebHookPlugin**。 下载地址：[http://tcplugins.sourceforge.net/info/tcWebHooks](http://tcplugins.sourceforge.net/info/tcWebHooks)
