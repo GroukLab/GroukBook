@@ -35,5 +35,5 @@
    * [Incoming Webhook](integration_incomingwebhook.md)
        * [兼容Slack格式的Webhook](integration_incomingwebhook_slack.md)
    * [Open-Falcon](integration_openfalcon.md)
-   * AmazonSNS
+   * [AmazonSNS](integration_amazonsns.md)
 
