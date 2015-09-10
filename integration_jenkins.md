@@ -1,4 +1,4 @@
-#Jenkins集成
+#Jenkins
 Jenkins是一个开源的，可定制的持续集成服务，可以加速软件开发的进程。
 
 1. 在Jenkins的Dashboard页面，点击左侧导航栏的“系统管理”。
