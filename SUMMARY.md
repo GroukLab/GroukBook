@@ -26,7 +26,7 @@
    * [Github](integration_github.md)
    * [Gitlab](integration_gitlab.md)
    * [Teamcity](integration_teamcity.md)
-   * [Jenkins集成](integration_jenkins.md)
+   * [Jenkins](integration_jenkins.md)
    * [Crashlytics集成](integration_crashlytic.md)
    * [邮件集成](integration_email.md)
    * [Fir集成](integration_fir.md)
