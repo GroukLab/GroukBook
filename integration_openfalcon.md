@@ -12,4 +12,4 @@
 Grouk的Open-Falcon集成会忽略接口调用的tos参数，报警通过webhook发送到到Grouk后，会投递到订阅源对应的订阅群组和用户，该参数的值不会影响投递结果。
 
 报警消息演示:
-![openfalcon-demo](imgs/imgs/open-falcon-demo.png)
+![openfalcon-demo](imgs/open-falcon-demo.png)
