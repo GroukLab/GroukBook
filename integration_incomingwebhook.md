@@ -53,3 +53,5 @@ curl 命令示例:
 ![step4](https://s3.cn-north-1.amazonaws.com.cn/grouk-public/integration/incomingwebhook/incomingwebhook_step4.png)
 
 当前Incoming Webhook尚未支持文件附件。
+
+Incoming Webhook的 Callback URL填写说明请参看文档 [Reply Callback](integration_reply_callback.md)
