@@ -13,6 +13,7 @@ Grouk支持消息回复机制，所以Grouk的Incoming Webhook也支持Reply Cal
     4. **replyUser**    回复该消息的用户属性 包含 objectID，username，email，avatar 几个属性
     5. **group** 如果该消息是在群组中被回复，会包含该字段。group有以下属性：objectID，name，customID，avatar
     6. **replyMessage** 回复消息体，包含 objectID，from，to，text 等字段
+* 该接口的响应无要求，如果正确处理http状态码请返回200
     
     
          
