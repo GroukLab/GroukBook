@@ -8,7 +8,7 @@ Grouk支持多个终端同时登陆，每个终端的消息，未读数，以及
 * 下载地址 [Grouk](https://itunes.apple.com/gb/app/appName/id995887064)
 * 二维码
 
-![](https://grouk.com/img/default/qrcode_ios_400.jpg)
+![](https://grouk.com/img/default/qcode_ios.png)
 
 
 ##Android客户端
@@ -16,7 +16,7 @@ Grouk支持多个终端同时登陆，每个终端的消息，未读数，以及
 * 下载地址 [Grouk](https://file.grouk.com/download/android)
 * 二维码
 
-![](https://grouk.com/img/default/qrcode_android_400.png)
+![](https://grouk.com/img/default/qcode_android.png)
 
 
 ##Web客户端
