@@ -40,5 +40,5 @@
    * [青云](integration_qingyun.md)
    * [监控宝](integration_jiankongbao.md)
    * [禅道](integration_zentao.md)
-   * circleci
+   * [circleci](circleci.md)
 
