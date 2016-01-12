@@ -42,4 +42,5 @@
    * [禅道](integration_zentao.md)
    * [CircleCI](circleci.md)
    * [开源中国](integration_oschina.md)
+   * Mailgun
 
