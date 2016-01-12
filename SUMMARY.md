@@ -41,5 +41,5 @@
    * [监控宝](integration_jiankongbao.md)
    * [禅道](integration_zentao.md)
    * [CircleCI](circleci.md)
-   * [开源中国](oschina.md)
+   * [开源中国](integration_oschina.md)
 
