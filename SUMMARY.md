@@ -45,5 +45,5 @@
    * [Mailgun](integration_mailgun.md)
    * [Coding](integration_coding.md)
    * [GitCafe](integration_gitcafe.md)
-   * 用户反馈
+   * [用户反馈](integration_feedback.md)
 
