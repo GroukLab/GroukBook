@@ -44,5 +44,5 @@
    * [开源中国](integration_oschina.md)
    * [Mailgun](integration_mailgun.md)
    * [Coding](integration_coding.md)
-   * GitCafe
+   * [GitCafe](integration_gitcafe.md)
 
