@@ -46,5 +46,5 @@
    * [Coding](integration_coding.md)
    * [GitCafe](integration_gitcafe.md)
    * [用户反馈](integration_feedback.md)
-   * [Bitbucket](integration_gitbucket)
+   * [Bitbucket](integration_gitbucket.md)
 
