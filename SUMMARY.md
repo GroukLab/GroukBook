@@ -47,5 +47,5 @@
    * [GitCafe](integration_gitcafe.md)
    * [用户反馈](integration_feedback.md)
    * [Bitbucket](integration_bitbucket.md)
-   * Tower
+   * [Tower](integration_tower.md)
 
