@@ -48,4 +48,5 @@
    * [用户反馈](integration_feedback.md)
    * [Bitbucket](integration_bitbucket.md)
    * [Tower](integration_tower.md)
+   * DaoCloud
 
