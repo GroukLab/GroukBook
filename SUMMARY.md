@@ -49,4 +49,5 @@
    * [Bitbucket](integration_bitbucket.md)
    * [Tower](integration_tower.md)
    * [DaoCloud](integration_daocloud.md)
+   * Codeship
 
