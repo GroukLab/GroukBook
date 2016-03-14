@@ -1,10 +1,9 @@
 # 用户反馈
 
-发送到Webhook URL地址的请求需包含如下参数：
+通过用户反馈集成，可以将用户的意见和建议实时发送到Grouk中，使用方法：
+1. 在Grouk集成页面创建用户反馈集成，会生成一个Webhook URL地址，格式：`https://api.grouk.com/webhook/$eventSourceID/$token`
+2. 将第一步中eventSourceID和token的值分别复制到如下地址的对应位置，appUid为任意字符串（用于标识用户唯一性）：`https://grouk.com/feedback.html?eventSourceID=$eventSourceID&token=$token&appUid=$uid`
+3. 在第一步的页面中选择订阅目标后，点击保存
+4. 用户在浏览器中输入第二步中的地址即可实现实时在线的客服系统
 
-- text: 此内容将展示为Grouk的消息体
-- fids: 文件或图片在Grouk文件服务器上的id，多个用','分隔
-- _app_uid: 用户会话的唯一标识（必选）
-- display_name: 可选
-
-**注：text和fids参数必须指定其一**
+跟同一个appUid的用户所有聊天记录会在一个主题讨论下。
