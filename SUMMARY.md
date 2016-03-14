@@ -51,4 +51,5 @@
    * [DaoCloud](integration_daocloud.md)
    * [Codeship](integration_codeship.md)
    * [SendCloud](integration_sendcloud.md)
+   * Redmine
 
