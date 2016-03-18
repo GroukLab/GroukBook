@@ -52,4 +52,5 @@
    * [Codeship](integration_codeship.md)
    * [SendCloud](integration_sendcloud.md)
    * [Redmine](integration_redmine.md)
+   * Zabbix
 
